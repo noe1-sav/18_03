@@ -1,0 +1,23 @@
+#include <iostream>
+int main () 
+ { 
+ template <typename T> requires std:: DA CAPIRE<T>
+ class complex_number{
+  T p_real,p_im
+ void coniugato(void) (
+ if (p_im>=0)
+ return;
+ 
+ p_im=-p_im
+p_real=p_real
+void radice_neg(void)(
+if (p_real == NUMERO IRRA
+
+)
+ }
+ 
+ 
+ 
+ return 0;
+ }
+ 
